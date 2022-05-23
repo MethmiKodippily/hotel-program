@@ -1,0 +1,6 @@
+room 6 is occupied by Methmi
+Number of guests: 4
+First name of paying customer: Methmi
+Last name of paying customer: Kodippily
+Credit card number: 123456789
+
