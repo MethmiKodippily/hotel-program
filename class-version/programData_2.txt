@@ -1,0 +1,6 @@
+room 3 occupied by Bruno
+Number of guests: 2
+First name of paying customer: Bruno
+Last name of paying customer: Senerath
+Credit card number: 87654321
+
